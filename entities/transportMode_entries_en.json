@@ -1,0 +1,26 @@
+[
+  {
+    "value": "bus",
+    "synonyms": [
+      "Bus",
+      "bus"
+    ]
+  },
+  {
+    "value": "train",
+    "synonyms": [
+      "Train",
+      "train"
+    ]
+  },
+  {
+    "value": "taxi",
+    "synonyms": [
+      "Uber/Rental Services",
+      "Uber",
+      "Ola",
+      "Car Rental",
+      "Lyft"
+    ]
+  }
+]

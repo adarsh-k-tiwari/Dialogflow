@@ -1,0 +1,497 @@
+[
+  {
+    "id": "a86a2f91-1617-4c71-8589-0faa5ff5837e",
+    "data": [
+      {
+        "text": "What\u0027s the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "JL701",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "October 21st",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88c738bf-b332-4673-ab3d-d202ae7b0c26",
+    "data": [
+      {
+        "text": "What\u0027s the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "VS26",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "August 5th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3f309b5-078f-4af9-9492-2807ebcd018a",
+    "data": [
+      {
+        "text": "How\u0027s the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "KL642",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "July 28th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c409b971-e295-45dc-b882-a15eef070277",
+    "data": [
+      {
+        "text": "What\u0027s the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "NH12",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "June 19th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36aae41f-329d-4aa7-8db5-f5689a5f4c9b",
+    "data": [
+      {
+        "text": "Can you tell me the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "CX845",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "May 9th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce5e0e80-7837-47cc-91ca-7a6a9b2c60b5",
+    "data": [
+      {
+        "text": "What\u0027s the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "QF11",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "April 17th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b00a996a-9243-4cd1-b083-64c11d37a202",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "AF007",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " departing on time on ",
+        "userDefined": false
+      },
+      {
+        "text": "March 22nd",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a3b1ff4-173e-4502-a6f2-6bbf65c156dd",
+    "data": [
+      {
+        "text": "What\u0027s the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "SQ318",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "February 14th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7aadf2ee-cce9-4a54-9e7f-dfaea77bc3a3",
+    "data": [
+      {
+        "text": "Can you check the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "EK202",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "January 8th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe7abcee-9341-4fca-be34-a34edf0b17d5",
+    "data": [
+      {
+        "text": "What\u0027s the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "LH456",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "December 30th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "567244d1-6b34-450e-a1f7-d39cd5ed0c9a",
+    "data": [
+      {
+        "text": "How\u0027s the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "AA321",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "November 25th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c578ae56-71c7-4c2e-991b-eb79bed27fc7",
+    "data": [
+      {
+        "text": "Can you check the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "AC759",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "September 11th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "747b916d-786d-4a73-a51a-9b73c4dbca7f",
+    "data": [
+      {
+        "text": "Can you tell me the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "DL105",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "September 15th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aee6f169-3c48-43a3-8b28-d9adb2525a89",
+    "data": [
+      {
+        "text": "What\u0027s the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "BA256",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "August 10th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b969c96d-4b6c-41c6-99ff-954bee2652a5",
+    "data": [
+      {
+        "text": "What\u0027s the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "AI102",
+        "meta": "@flightNumber",
+        "alias": "flightNumber",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "July 5th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

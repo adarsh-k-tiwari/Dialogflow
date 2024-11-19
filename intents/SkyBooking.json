@@ -1,0 +1,91 @@
+{
+  "id": "b5d50599-ae32-486f-9209-e242b0b91ec5",
+  "name": "SkyBooking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "07f33d07-a8a8-4b8a-98b8-4da9e1bf50b0",
+          "name": "toCity",
+          "required": true,
+          "dataType": "@sys.airport",
+          "value": "$toCity",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Hey, you missed to tell me where are you going?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "548aa77b-6c4c-430a-94ac-278ea3a13ca7",
+          "name": "fromCity",
+          "required": true,
+          "dataType": "@sys.airport",
+          "value": "$fromCity",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Hey, you missed to tell me from where you will be boarding?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3f561c15-283a-43e7-90cf-515dfb76c768",
+          "name": "dateOfJourney",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$dateOfJourney",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "faf14fd3-71e8-4e3d-afd2-eeadedd8c7c9",
+          "name": "travelClass",
+          "required": false,
+          "dataType": "@travelClass",
+          "value": "$travelClass",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

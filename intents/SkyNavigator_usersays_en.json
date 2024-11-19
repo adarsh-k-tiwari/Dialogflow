@@ -1,0 +1,690 @@
+[
+  {
+    "id": "2a5ad118-828d-4b70-b4a6-811ee74093bc",
+    "data": [
+      {
+        "text": "How can I get to ",
+        "userDefined": false
+      },
+      {
+        "text": "JFK",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": true
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bd2e58c-d609-4de5-9168-38ede93a74c9",
+    "data": [
+      {
+        "text": "How can I get to ",
+        "userDefined": false
+      },
+      {
+        "text": "LAX",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": true
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": false
+      },
+      {
+        "text": " from downtown ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d595057b-94b4-4569-8c18-d559c9a349ce",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "taxi",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": true
+      },
+      {
+        "text": " should I take to get to ",
+        "userDefined": false
+      },
+      {
+        "text": "O\u0027Hare airport",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b05d309-2486-4294-bdbb-c7a4e0d0bfb0",
+    "data": [
+      {
+        "text": "Can you tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "bus",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": false
+      },
+      {
+        "text": " route to ",
+        "userDefined": false
+      },
+      {
+        "text": "Heathrow",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "central London",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9d6e0eb-6567-4ddf-b886-a399ab621c55",
+    "data": [
+      {
+        "text": "I need directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "Miami International Airport",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Miami Beach",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "511b9b66-502e-4dea-8d56-84e88c070fdf",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "taxi",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": true
+      },
+      {
+        "text": " goes to ",
+        "userDefined": false
+      },
+      {
+        "text": "San Francisco Airport",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": false
+      },
+      {
+        "text": " from downtown ",
+        "userDefined": false
+      },
+      {
+        "text": "San Francisco",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d90f7492-b002-441a-a999-d22b4eb4ab62",
+    "data": [
+      {
+        "text": "How can I reach ",
+        "userDefined": false
+      },
+      {
+        "text": "Atlanta Airport",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "bus",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": false
+      },
+      {
+        "text": " from Midtown ",
+        "userDefined": false
+      },
+      {
+        "text": "Atlanta",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a741159-1250-452a-bb60-0577e2e0e65a",
+    "data": [
+      {
+        "text": "What\u0027s the best way to get to ",
+        "userDefined": false
+      },
+      {
+        "text": "Toronto Pearson",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": false
+      },
+      {
+        "text": " Airport from downtown ",
+        "userDefined": false
+      },
+      {
+        "text": "Toronto",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fabddf60-3cc1-48d6-990f-f1c03411635e",
+    "data": [
+      {
+        "text": "Is there a ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": false
+      },
+      {
+        "text": " that goes from ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Logan Airport",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53149c21-fc94-4a34-9229-fc392165cc90",
+    "data": [
+      {
+        "text": "How do I travel by ",
+        "userDefined": false
+      },
+      {
+        "text": "taxi",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Dallas/Fort Worth",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": false
+      },
+      {
+        "text": " Airport from downtown ",
+        "userDefined": false
+      },
+      {
+        "text": "Dallas",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6e6b566-bfb1-4ef0-8d88-5459bcf1948b",
+    "data": [
+      {
+        "text": "Can you help me find a ",
+        "userDefined": false
+      },
+      {
+        "text": "bus",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle-Tacoma Airport",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": false
+      },
+      {
+        "text": " from downtown ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07dfad9a-148c-4d44-a321-d6c971d6279b",
+    "data": [
+      {
+        "text": "What\u0027s the quickest ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": false
+      },
+      {
+        "text": " route to ",
+        "userDefined": false
+      },
+      {
+        "text": "Denver International Airport",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": false
+      },
+      {
+        "text": " from downtown ",
+        "userDefined": false
+      },
+      {
+        "text": "Denver",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03f09254-1d5b-4df5-8ba5-4b0c855814fe",
+    "data": [
+      {
+        "text": "How do I go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver Airport",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": false
+      },
+      {
+        "text": " from downtown ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "taxi",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23407276-221a-478b-98b2-228fdabd0c90",
+    "data": [
+      {
+        "text": "What\u0027s the easiest way to get to ",
+        "userDefined": false
+      },
+      {
+        "text": "Philadelphia International",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": false
+      },
+      {
+        "text": " Airport from downtown ",
+        "userDefined": false
+      },
+      {
+        "text": "Philadelphia",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": false
+      },
+      {
+        "text": " using a ",
+        "userDefined": false
+      },
+      {
+        "text": "bus",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "508caede-6164-4dbc-81f5-086b7549cce2",
+    "data": [
+      {
+        "text": "How long does it take to get to ",
+        "userDefined": false
+      },
+      {
+        "text": "Orlando International",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": false
+      },
+      {
+        "text": " Airport by ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": false
+      },
+      {
+        "text": " from downtown ",
+        "userDefined": false
+      },
+      {
+        "text": "Orlando",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "976ef327-ddcb-4b81-8e96-f52bdd00b4f3",
+    "data": [
+      {
+        "text": "How to I get to ",
+        "userDefined": false
+      },
+      {
+        "text": "JFK",
+        "meta": "@sys.location",
+        "alias": "airportName",
+        "userDefined": true
+      },
+      {
+        "text": " airport by ",
+        "userDefined": false
+      },
+      {
+        "text": "bus",
+        "meta": "@transportMode",
+        "alias": "transportMode",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Manhattan",
+        "meta": "@sys.geo-city",
+        "alias": "cityName",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

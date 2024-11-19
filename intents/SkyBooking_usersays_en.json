@@ -1,0 +1,800 @@
+[
+  {
+    "id": "a35d2e8e-a82c-481f-a413-11e02506a544",
+    "data": [
+      {
+        "text": "I want to book a flight from  ",
+        "userDefined": false
+      },
+      {
+        "text": "JFK",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "CDG",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "July 15th",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "economy",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": true
+      },
+      {
+        "text": " class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a179e477-82d7-4e9b-8c99-b332efafc775",
+    "data": [
+      {
+        "text": "I want to book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "LAX",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "MIA",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": false
+      },
+      {
+        "text": " class on ",
+        "userDefined": false
+      },
+      {
+        "text": "July 10th.",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb985cf6-24b1-421e-b4ef-acc8f29dcec1",
+    "data": [
+      {
+        "text": "Can you book a flight for me from ",
+        "userDefined": false
+      },
+      {
+        "text": "ORD",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "DEN",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "economy",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": false
+      },
+      {
+        "text": " class on ",
+        "userDefined": false
+      },
+      {
+        "text": "August 5th",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9eee8180-f2a4-4676-8ac1-7d1e6f6b53cd",
+    "data": [
+      {
+        "text": "Please reserve a ",
+        "userDefined": false
+      },
+      {
+        "text": "business",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": false
+      },
+      {
+        "text": " class flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "SFO",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "SEA",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "September 15th.",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b06a202b-3f8e-4ed8-8ebd-cf098e4e1296",
+    "data": [
+      {
+        "text": "Book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "BOS",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "MCO",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": false
+      },
+      {
+        "text": " in first class on ",
+        "userDefined": false
+      },
+      {
+        "text": "October 20th.",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd6b8419-76f6-474b-ab35-263b71a8d404",
+    "data": [
+      {
+        "text": "I need to fly from ",
+        "userDefined": false
+      },
+      {
+        "text": "DFW",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "ATL",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "economy",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": false
+      },
+      {
+        "text": " class on ",
+        "userDefined": false
+      },
+      {
+        "text": "November 8th.",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "633e33e7-4574-43ee-bbbd-21aee070218c",
+    "data": [
+      {
+        "text": "Arrange a flight for me from ",
+        "userDefined": false
+      },
+      {
+        "text": "IAD",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "LAS",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "business",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": false
+      },
+      {
+        "text": " class on ",
+        "userDefined": false
+      },
+      {
+        "text": "December 12th.",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f92ddcb2-aacd-4e48-b9a7-d97fb483b461",
+    "data": [
+      {
+        "text": "I\u0027d like to book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "PHL",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "PHX",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "first class",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "January 18th.",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe7fcac5-0aad-48a1-9c0d-7cbb47a445b6",
+    "data": [
+      {
+        "text": "Can you schedule a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "SAN",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "MSP",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "economy",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": false
+      },
+      {
+        "text": " class on ",
+        "userDefined": false
+      },
+      {
+        "text": "February 25th",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40e9f6d7-b45f-402e-acf7-6494b385e1fd",
+    "data": [
+      {
+        "text": "Reserve a ",
+        "userDefined": false
+      },
+      {
+        "text": "business",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": false
+      },
+      {
+        "text": " class flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "AUS",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "MSY",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "March 22nd.",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "126b9a76-1f8f-4ffe-926b-dd44b345cf2f",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": false
+      },
+      {
+        "text": " class flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "IAH",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "BNA",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "April 30th.",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad51c1bf-14bb-41a1-a87e-d75a2545e93a",
+    "data": [
+      {
+        "text": "Book an ",
+        "userDefined": false
+      },
+      {
+        "text": "economy",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": false
+      },
+      {
+        "text": " class flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "CLT",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "DTW",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "May 14th.",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1528701c-1c47-43b4-aec3-76c7bc1a219e",
+    "data": [
+      {
+        "text": "Please arrange a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "PDX",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "SLC",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "business",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": true
+      },
+      {
+        "text": " class on ",
+        "userDefined": false
+      },
+      {
+        "text": "June 19th",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17bb7db0-1434-474e-827a-6d524c0f6cca",
+    "data": [
+      {
+        "text": "I\u0027d like to fly from ",
+        "userDefined": false
+      },
+      {
+        "text": "IND",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "SAT",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": false
+      },
+      {
+        "text": " class on ",
+        "userDefined": false
+      },
+      {
+        "text": "July 3rd.",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "368457b8-b40d-4f3a-bcb7-f1ce613e2df6",
+    "data": [
+      {
+        "text": "Can you book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "JAX",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "CMH",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "economy",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": false
+      },
+      {
+        "text": " class on ",
+        "userDefined": false
+      },
+      {
+        "text": "August 27th",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfe8d1e5-80cb-401d-88d4-f84a3b816bde",
+    "data": [
+      {
+        "text": "I want to book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "JFK",
+        "meta": "@sys.airport",
+        "alias": "toCity",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "IAH",
+        "meta": "@sys.airport",
+        "alias": "fromCity",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "business",
+        "meta": "@travelClass",
+        "alias": "travelClass",
+        "userDefined": true
+      },
+      {
+        "text": " class on ",
+        "userDefined": false
+      },
+      {
+        "text": "25th June",
+        "meta": "@sys.date-time",
+        "alias": "dateOfJourney",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

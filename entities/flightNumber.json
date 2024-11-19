@@ -1,0 +1,9 @@
+{
+  "id": "aaceb4af-0d9b-4d84-bb10-ff550409f286",
+  "name": "flightNumber",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

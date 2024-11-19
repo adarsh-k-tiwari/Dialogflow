@@ -1,0 +1,25 @@
+[
+  {
+    "value": "Paris",
+    "synonyms": [
+      "Paris",
+      "paris"
+    ]
+  },
+  {
+    "value": "New York",
+    "synonyms": [
+      "New York",
+      "new york",
+      "ny",
+      "nyc"
+    ]
+  },
+  {
+    "value": "Portland",
+    "synonyms": [
+      "Portland",
+      "portland"
+    ]
+  }
+]

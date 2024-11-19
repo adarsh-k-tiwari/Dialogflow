@@ -1,0 +1,28 @@
+[
+  {
+    "value": "economy",
+    "synonyms": [
+      "economy"
+    ]
+  },
+  {
+    "value": "premium economy",
+    "synonyms": [
+      "premium economy"
+    ]
+  },
+  {
+    "value": "business",
+    "synonyms": [
+      "business",
+      "biz"
+    ]
+  },
+  {
+    "value": "first class",
+    "synonyms": [
+      "first class",
+      "1st class"
+    ]
+  }
+]
